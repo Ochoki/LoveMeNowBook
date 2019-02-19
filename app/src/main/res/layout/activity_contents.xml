@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:id="@+id/scroll"
+    tools:context=".YourPage">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Table of Contents"
+            android:id="@+id/heartbreak"
+            android:background="@color/colorAccent"
+            android:textSize="20dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:textSize="20dp"
+            android:textColorLink="@color/colorPrimaryDark"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="PART ONE"
+            android:id="@+id/pt1"
+            android:textSize="25dp"
+            android:textColor="@color/colorPrimaryDark"
+
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="1. The Prostitute and Heartbreak"
+            android:id="@+id/story1"
+            android:textSize="20dp"
+            android:textColorLink="@color/colorPrimaryDark"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="2. An Impossible Romance"
+            android:id="@+id/story2"
+            android:textSize="20dp"
+            android:textColorLink="@color/colorPrimaryDark"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="3. The Diary of a Cursed Child"
+            android:id="@+id/story3"
+            android:textSize="20dp"
+            android:textColorLink="@color/colorPrimaryDark"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="4. Say a Prayer"
+            android:id="@+id/story4"
+            android:textSize="20dp"
+            android:textColorLink="@color/colorPrimaryDark"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="5. To Wake Up; to Breathe"
+            android:id="@+id/story5"
+            android:textSize="20dp"
+            android:textColorLink="@color/colorPrimaryDark"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="6. Redemption"
+            android:id="@+id/story6"
+            android:textSize="20dp"
+            android:textColorLink="@color/colorPrimaryDark"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="7. One Last Story"
+            android:id="@+id/story7"
+            android:textSize="20dp"
+            android:textColorLink="@color/colorPrimaryDark"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/colorPrimaryDark"
+            android:textSize="20dp"
+            android:textColorLink="@color/colorPrimaryDark"
+            />
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="PART TWO"
+            android:id="@+id/pt2"
+            android:textSize="25dp"
+             android:textColor="@color/colorPrimaryDark"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="1. Run:"
+            android:id="@+id/story8"
+            android:textSize="20dp"
+            android:textColorLink="@color/colorPrimaryDark"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="2. Let the Children Name Themselves"
+            android:id="@+id/story9"
+            android:textSize="20dp"
+            android:textColorLink="@color/colorPrimaryDark"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="3. Gwaddi’s Memoir"
+            android:id="@+id/story10"
+            android:textSize="20dp"
+            android:textColorLink="@color/colorPrimaryDark"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/text"
+            android:textSize="20dp"
+            android:layout_margin="16dp"
+            android:scrollbars="vertical"/>
+
+
+        <Button
+            android:id="@+id/next"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:layout_marginBottom="-50dp"
+            android:text="Next"
+            android:background="@color/colorAccent"/>
+
+
+        <Button
+            android:id="@+id/previous"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="left"
+            android:text="Previous"
+            android:background="@color/colorAccent"/>
+
+
+
+    </LinearLayout>
+
+
+</ScrollView>

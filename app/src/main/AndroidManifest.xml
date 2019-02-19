@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.myapplication">
+    
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/love_me"
+        android:label="Love Me Now by Michael Ochoki"
+        android:roundIcon="@mipmap/love_me_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Title"></activity>
+        <activity android:name=".MainActivity" />
+        <activity android:name=".Gwaddi" />
+        <activity android:name=".Children" />
+        <activity android:name=".Run" />
+        <activity android:name=".Part2" />
+        <activity android:name=".Last" />
+        <activity android:name=".Redemption" />
+        <activity android:name=".Wake" />
+        <activity android:name=".Prayer" />
+        <activity android:name=".Part1" />
+        <activity android:name=".Contents" />
+        <activity android:name=".Dedication" />
+        <activity android:name=".Page1" />
+        <activity
+            android:name=".Page4"
+            android:label="@string/title_activity_page4"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".Page3" />
+        <activity android:name=".Page2" />
+        <activity android:name=".YourPage" />
+        <activity android:name=".Welcome">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
