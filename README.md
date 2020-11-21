@@ -8,4 +8,4 @@
 # LoveMeNowBook
 An app for a novel
 
-[![Twitter](https://img.shields.io/twitter/url?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FMogakamo%2FLoveMeNowBook)
+[![Twitter](https://img.shields.io/twitter/url?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https://twitter.com/m_ogakadev)
