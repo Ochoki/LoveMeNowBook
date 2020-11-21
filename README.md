@@ -1,7 +1,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/Mogakamo/LoveMeNowBook)](https://github.com/Mogakamo/LoveMeNowBook/issues)
 [![GitHub forks](https://img.shields.io/github/forks/Mogakamo/LoveMeNowBook)](https://github.com/Mogakamo/LoveMeNowBook/network)
 [![GitHub stars](https://img.shields.io/github/stars/Mogakamo/LoveMeNowBook)](https://github.com/Mogakamo/LoveMeNowBook/stargazers)
-[![Lipa na MPESA](https://img.shields.io/badge/lipa--na--MPESA-yes-brightgreen)]
+[!Lipa na MPESA](https://img.shields.io/badge/lipa--na--MPESA-yes-brightgreen)
 
 
 # LoveMeNowBook
