@@ -1,39 +1,37 @@
 {
   "project_info": {
-    "project_number": "731369890854",
-    "firebase_url": "https://myapplication4-7f94b.firebaseio.com",
-    "project_id": "myapplication4-7f94b",
-    "storage_bucket": "myapplication4-7f94b.appspot.com"
+    "project_number": "843434049377",
+    "firebase_url": "https://love-me-now-book.firebaseio.com",
+    "project_id": "love-me-now-book",
+    "storage_bucket": "love-me-now-book.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:731369890854:android:13c3c6a65bcbec53",
+        "mobilesdk_app_id": "1:843434049377:android:f8855a7b0e39e4f5304f20",
         "android_client_info": {
-          "package_name": "com.example.myapplication"
+          "package_name": "com.wasify.mogaka"
         }
       },
       "oauth_client": [
         {
-          "client_id": "731369890854-om0huit7q7721mc6lkd1nm13hjc572vb.apps.googleusercontent.com",
+          "client_id": "843434049377-navm6qc0da87bdo63eglriftifs1p5u9.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyB0Z-vVTsAny2_hukzYAjiF40jFRLzGZU4"
+          "current_key": "AIzaSyCPDEdQbI2q35ktQcPrxDj8Etz25icFkHQ"
         }
       ],
       "services": {
-        "analytics_service": {
-          "status": 1
-        },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
-        },
-        "ads_service": {
-          "status": 2
+          "other_platform_oauth_client": [
+            {
+              "client_id": "843434049377-navm6qc0da87bdo63eglriftifs1p5u9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }
